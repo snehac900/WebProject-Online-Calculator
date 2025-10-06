@@ -1,0 +1,14 @@
+.calculator {
+  width: 320px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.display {
+  height: 70px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  overflow-x: auto;
+  white-space: nowrap;
+}
